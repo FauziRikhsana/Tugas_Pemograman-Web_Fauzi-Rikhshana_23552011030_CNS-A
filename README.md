@@ -1,4 +1,4 @@
-# Project_Implementasikan-2-Input-Control_pada-Android-Native
+# Project_Pembuatan_Website_Sederhana
 <ul>
   <li>Mata Kuliah:Pemograman Web 1 </li>
   <li>Dosen Pengampu: Nova Agustina, ST., M.Kom.</li>
