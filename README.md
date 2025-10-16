@@ -11,9 +11,11 @@
   <li>Kelas: TIF RP CNS A</li>
 </ul>
 
-<ul>
-  <li>Berikut Merupakan Tampilan hasil dari pembuatan web site sederhana</li>
-</ul>
+<html>
+<body>
+<p>Berikut Merupakan Tampilan Hasil dari Tugas pembuatan website Sederhana </p>
+</body>
+</html>
 
 ![alt text](https://github.com/FauziRikhsana/Tugas_Pemograman-Web_Fauzi-Rikhshana_23552011030_CNS-A/blob/main/Tugas%20web/tampilan%20menu%20utama.png?raw=true)
 ![alt text](https://github.com/FauziRikhsana/Tugas_Pemograman-Web_Fauzi-Rikhshana_23552011030_CNS-A/blob/main/Tugas%20web/tampilan%20profil.png?raw=true)
